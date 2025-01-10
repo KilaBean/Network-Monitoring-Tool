@@ -13,3 +13,4 @@ This project is a comprehensive tool for monitoring and analyzing network traffi
 
 ## License
 This project is licensed under the MIT License.
+![network_analysis_ui](https://github.com/user-attachments/assets/b4b663c9-9140-43ca-a004-2d6ae8082695)
